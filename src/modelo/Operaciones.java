@@ -58,6 +58,7 @@ public class Operaciones {
 		System.out.println(getMessages("prueba"));		
 	}
 	
+	//creamos la clase grabarMensaje
 	public void grabaMensaje(Mensaje m){
 		Connection cn;
 		Statement st;
