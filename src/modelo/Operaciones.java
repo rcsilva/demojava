@@ -22,6 +22,7 @@ public class Operaciones {
 		return cn;
 	}
 	
+	//creamos la clase getMessages
 	public static ArrayList<Mensaje> getMessages(String destino){
 		
 		Connection conexion = null;		
